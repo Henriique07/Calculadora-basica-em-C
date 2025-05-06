@@ -65,7 +65,7 @@ int main(){
 			printf ("%.f / %.f = %.1f \n", n1,n2,result);
 			break;
 }
-	//Realiza as operções de continuar ou encerrar o codigo	
+	//Realiza a função de continuar ou encerrar o codigo	
 	printf ("Quer realizar outra operacao? \n");
 			printf ("1- SIM \n");
 			printf ("2- NAO \n");
