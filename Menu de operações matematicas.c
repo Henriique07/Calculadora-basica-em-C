@@ -27,7 +27,7 @@ int main(){
 				scanf ("%f", &n2);// Recebe o outro número que será inserido na operação
 				getchar();
 			
-				printf ("%.f + %.f = %.f\n", n1,n2, n1+n2);// Operação basica de adição
+				printf ("%.f + %.f = %.f\n", n1,n2, n1+n2);// Operação básica de adição
 			
 				printf ("\n");// Pula uma linha
 			
@@ -58,7 +58,7 @@ int main(){
 				scanf ("%f", &n2);
 				getchar();
 			
-				printf ("%.f - %.f = %.f\n", n1,n2,n1-n2);
+				printf ("%.f - %.f = %.f\n", n1,n2,n1-n2);// Operação básica de subtração
 			
 				printf ("\n");
 			
@@ -88,7 +88,7 @@ int main(){
 				scanf ("%f", &n2);
 				getchar();
 			
-				printf ("%.f x %.f = %.f\n", n1,n2,n1*n2);
+				printf ("%.f x %.f = %.f\n", n1,n2,n1*n2);// Operação básica de multiplicação
 		
 				printf ("\n");
 			
@@ -118,7 +118,7 @@ int main(){
 				scanf ("%f", &n2);
 				getchar();
 			
-				printf ("%.f / %.f = %.2f\n", n1,n2,n1/n2);
+				printf ("%.f / %.f = %.2f\n", n1,n2,n1/n2);// Operação básica de divisão
 			
 				printf ("\n");
 			
